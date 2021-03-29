@@ -25,3 +25,6 @@ secondVar = thirdVar;
 console.log('First: ', firstVar);
 console.log('Second:', secondVar);
 console.log("ok");
+
+
+console.log ("hi")
